@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samuel-Alves-Navarro
 - 👀 I’m interested in JavaScript, MySQL e o que vier 
-- 🌱 I’m currently learning C++, C, JavaScript, MySQL
+- 🌱 I’m currently learning C++, C, C#, MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
